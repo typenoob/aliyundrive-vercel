@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 apt update
 apt install python3
 pip3 install aliyundrive-webdav
